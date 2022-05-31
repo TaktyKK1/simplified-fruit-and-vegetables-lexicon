@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">proj10_Jurek_Lukasz_leksykon_owocow_i_warzyw</string>
+    <string name="btn_sign">+</string>
+    <string name="txt_app_title">LEKSYKON</string>
+    <string name="btn_a_z">a-z</string>
+    <string name="btn_z_a">z-a</string>
+    <string name="txtDefinicja">DEFINICJA</string>
+    <string name="txtZapisz">ZAPISZ</string>
+    <string name="txtUsun">USUŃ</string>
+    <string name="txtNazwa">Nazwa</string>
+    <string name="rdBtn_warzywo">Warzywo</string>
+    <string name="rdBtn_owoc">Owoc</string>
+    <string name="txtOpis">Opis</string>
+    <string name="editTxt_nazwa_hint">nazwa</string>
+    <string name="editTxt_opis_hint">opis</string>
+    <string name="btnEdytuj_txt">Edytuj</string>
+</resources>
